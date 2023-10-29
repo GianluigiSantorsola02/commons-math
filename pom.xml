@@ -101,6 +101,9 @@
 
     <!-- Set by modules to create a custom jira report -->
     <math.jira.component />
+
+   <sonar.organization>gianluigisantorsola02</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <modules> <!-- Do not change the ordering of the 4 blocks below. -->
